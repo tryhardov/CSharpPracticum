@@ -1,0 +1,8 @@
+{
+  "dotnet.defaultSolution": "CSharpPracticum.sln",
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "git.confirmSync": false
+}
