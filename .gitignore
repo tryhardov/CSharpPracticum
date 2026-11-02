@@ -1,0 +1,18 @@
+# Сборка
+bin/
+obj/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Тесты
+TestResults/
+
+# Данные, которые создаёт задание 44 при запуске из корня репозитория
+/tasks.json
